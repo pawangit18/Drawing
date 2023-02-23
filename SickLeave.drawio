@@ -1,1 +1,167 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T11:44:38.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ETgru4qzKaojyGSwmtqJ" version="20.8.23" type="github"><diagram name="Page-1" id="yXInIZI1BgA-7ZECgJcC">5Vtbc5s6EP41mel5OBkQF+NHnyRNmkkTp26nPX1TQAEdY8QIObb7649kBJiLMXW42NMno9UCYne/j91FvtCuFutbCkPvM3GQfwEUZ32hXV8AoCqGwn+EZBNLdEuLBS7FjlTKBDP8CyVnSukSOyjKKTJCfIbDvNAmQYBslpNBSskqr/ZK/PxdQ+iikmBmQ78s/Y4d5sVSK3ksIb9D2PWSO6uKnFnARFkKIg86ZLUj0m4utCtKCIuPFusr5AvjJXaJz/u4ZzZdGEUBa3LCp5Fprcf3T9O5MldB+GiOf33/W5ywXRzbJE+MHG4AOSSUecQlAfRvMuk/lCwDB4nLKnyU6TwQEnKhyoX/IcY20ptwyQgXeWzhy1m0xuzHzvG/8lLi+Hq9OxBRY4BLQ46niOIFYogmOgGjmx+7g+2lYn0xzK62HW3kqGw7ac6ILKmNagyWxCCkLmJ1euNYUVhz5w7SNbeI8MegG65AkQ8ZfsuHG5RR66Z6mWP5gfTtb/hZXvcN+kt5p5LfeXyG4tDe+Ji7l2rcTisPMzQL4dYkK47wvB9f4kB4eEkF0J672/B4WjJ+GSTlURwJqlFn+zdEGVrXGkvOAktiKiUVOV5lEDWlyNtBZ6LWunm1w+bNQKMeNmwLNlLHeRsBvWyjlJt2jaSOurKScTJckxJKmW2UPVRzPGWAtplAnjolmC8ldbim5x1ugIIfY86SZ2WunFAKNztqoVCI9t9HHxUCyzTy750D+rpVr68Z79M38u9BfhA/YRa3qc2PD2VQAvzdZHLNYyYiwRfkzp4fPgURx+oMBU4p6gWIMU8xHuAL8qckwgyTgE+9EMbIgsdaojDxsSsmGCnwQ8QomacJCRASyd6LtSsSscs49wHxL5/f5l/KpSkOheF0EdMBYbaXyilhUK6kNuCbc1DRNcAoc5CqVnCQ1hUFqaeT7/TKQWrTvKV1snqfu8p5Sw5nX5CNxCJOH2EtvdSL3FsFKKVXQI3OGVD76gddGR+oILajFvGpNcSnagwF0ODRtfDq7jZ8wt9wRO78x6dZk7qih3Dow+76aRFjueLIJyA8Mt9sdCbpRzfZhqb0mG18Rbfh9cYJo/n8/udisvGUZ5SUhefOjZcjPU+Pim71TI96U5ieFkr1g2XCt9CB7A/HqTl4VWCdDVD7b3gaTaFnDoW9Su4dtNBTci4ddePTtjm2saNbT4WO6kMZe2hkb59Ie6f+yCgEZQd9pcQJO2+M688/uYAndG/YLle6fbeVi1avqkCtqq6y2RV5g/H5IV3NI33UIX2bTVHdemF5FKpNs4i6epQe0O8IpWYJpTMPvsJXvH3WFKvKh5s1p2YeV38NDlyz+D1oeOAOk3X1n0GNG0IQnFiPYVyO8ucHLrgnLyXPJYVFSImNouhwSO/7VNxCqGuFUDcqGgHjilDvLtLNIV9Rp11fgKalPRis81m77h10TLgLFrya3wOR3lM17TAMqhi/OxiUk9ubENtc8vHrdHBzmaPhzFVZwZ4PabS4M+v4orbSho37htpQ5FK57GE+qlW7rMZhYJT5cwCfte2yowoWtbDtRtPrt6sU9fXits2CPjDfp28oViEc31cQ1blsX597Snz/T/9Un7aTDiShnX2MGrRN0kcO2jINWU1paLBvTnXLrklLFYesAp9ARyx6zSi0BX28Uo42oJxQQgYKDYuKDayVDYsj9q/yYbYRPybF7O8M2s3/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-23T11:54:41.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ZRtfBLRP2CgvJbXZWwFy" version="20.8.23" type="github">
+  <diagram name="Page-1" id="yXInIZI1BgA-7ZECgJcC">
+    <mxGraphModel dx="1050" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I768x9JOPk0k12pN69zW-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="310" y="280" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I768x9JOPk0k12pN69zW-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="40" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="I768x9JOPk0k12pN69zW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="I768x9JOPk0k12pN69zW-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="65" />
+              <mxPoint x="500" y="285" />
+              <mxPoint x="380" y="285" />
+              <mxPoint x="380" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I768x9JOPk0k12pN69zW-2" value="HAADSickLeaveSQLInsertSend" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0.6;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="50" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I768x9JOPk0k12pN69zW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="I768x9JOPk0k12pN69zW-11" target="I768x9JOPk0k12pN69zW-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I768x9JOPk0k12pN69zW-11" value="HAADSickLeaveReceive" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="50" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I768x9JOPk0k12pN69zW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.409;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="I768x9JOPk0k12pN69zW-13" target="I768x9JOPk0k12pN69zW-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nNg8iwHGpOiUisoHlNOS-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="I768x9JOPk0k12pN69zW-13" target="I768x9JOPk0k12pN69zW-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I768x9JOPk0k12pN69zW-13" value="HAADSickLeaveUploadServiceSend" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="100" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TeGpDydpskkJZmAyh0Qe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.74;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="I768x9JOPk0k12pN69zW-14" target="I768x9JOPk0k12pN69zW-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I768x9JOPk0k12pN69zW-14" value="HAADSickLeaveUploadSqlUpdateSend" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="160" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I768x9JOPk0k12pN69zW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I768x9JOPk0k12pN69zW-15" target="I768x9JOPk0k12pN69zW-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TeGpDydpskkJZmAyh0Qe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="I768x9JOPk0k12pN69zW-15" target="I768x9JOPk0k12pN69zW-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="160" />
+              <mxPoint x="360" y="160" />
+              <mxPoint x="360" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I768x9JOPk0k12pN69zW-15" value="DMZ Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="50" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="I768x9JOPk0k12pN69zW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="I768x9JOPk0k12pN69zW-16" target="I768x9JOPk0k12pN69zW-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="170" />
+              <mxPoint x="690" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I768x9JOPk0k12pN69zW-16" value="DOH Service (External)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="50" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TeGpDydpskkJZmAyh0Qe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TeGpDydpskkJZmAyh0Qe-4" target="I768x9JOPk0k12pN69zW-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TeGpDydpskkJZmAyh0Qe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;" parent="1" source="TeGpDydpskkJZmAyh0Qe-4" target="I768x9JOPk0k12pN69zW-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="145" />
+              <mxPoint x="170" y="220" />
+              <mxPoint x="290" y="220" />
+              <mxPoint x="290" y="308" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TeGpDydpskkJZmAyh0Qe-4" value="HAADSickLeavePollReceive" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TeGpDydpskkJZmAyh0Qe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TeGpDydpskkJZmAyh0Qe-8" target="I768x9JOPk0k12pN69zW-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TeGpDydpskkJZmAyh0Qe-8" value="Automate Job download extract from Epic FTP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="40" width="80" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="12192EzRd4C8vlyHQMVF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=52.5;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="12192EzRd4C8vlyHQMVF-2" target="12192EzRd4C8vlyHQMVF-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12192EzRd4C8vlyHQMVF-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="320" y="650" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="12192EzRd4C8vlyHQMVF-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="410" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="12192EzRd4C8vlyHQMVF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="12192EzRd4C8vlyHQMVF-7" target="12192EzRd4C8vlyHQMVF-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="435" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="485" />
+              <mxPoint x="350" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12192EzRd4C8vlyHQMVF-7" value="HAADSickLeaveReportReceive" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="470" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="12192EzRd4C8vlyHQMVF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.409;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="12192EzRd4C8vlyHQMVF-10" target="12192EzRd4C8vlyHQMVF-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12192EzRd4C8vlyHQMVF-10" value="HAADSickLeaveDownloadServiceSend" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="420" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="12192EzRd4C8vlyHQMVF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.74;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="12192EzRd4C8vlyHQMVF-12" target="12192EzRd4C8vlyHQMVF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12192EzRd4C8vlyHQMVF-12" value="HAADSickLeaveDownloadSqlInsertSend" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="530" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="12192EzRd4C8vlyHQMVF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="12192EzRd4C8vlyHQMVF-15" target="12192EzRd4C8vlyHQMVF-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12192EzRd4C8vlyHQMVF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="12192EzRd4C8vlyHQMVF-15" target="12192EzRd4C8vlyHQMVF-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="530" />
+              <mxPoint x="370" y="530" />
+              <mxPoint x="370" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12192EzRd4C8vlyHQMVF-15" value="DMZ Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="420" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="12192EzRd4C8vlyHQMVF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="12192EzRd4C8vlyHQMVF-17" target="12192EzRd4C8vlyHQMVF-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="540" />
+              <mxPoint x="700" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12192EzRd4C8vlyHQMVF-17" value="DOH Service (External)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="420" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="12192EzRd4C8vlyHQMVF-18" value="SQL Job send report data" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="670" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12192EzRd4C8vlyHQMVF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="12192EzRd4C8vlyHQMVF-23" target="12192EzRd4C8vlyHQMVF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12192EzRd4C8vlyHQMVF-23" value="Automate Job drops a file to initiate the process" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="410" width="80" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
